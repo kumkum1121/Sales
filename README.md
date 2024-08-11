@@ -13,8 +13,12 @@ performance across multiple dimensions.
 - **Customer Insights:** Highlight top customers contributing to sales to enhance customer relationship management and support targeted marketing efforts.
 
 - **Margins:** Track total sales and margins by product and order date to optimize pricing strategies and profitability.
+  
 # Relaionship building:
 ![Screenshot 2024-08-11 111521](https://github.com/user-attachments/assets/591ba056-b48c-4e8f-9263-5e24330953bf)
+
+# DAX Queries
+![Uploading image.png…]()
 
 # Various Measures
 ![Screenshot 2024-08-11 230400](https://github.com/user-attachments/assets/24519699-6b1c-461a-9ba9-d6b68efc89f8)
