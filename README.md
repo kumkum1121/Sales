@@ -39,7 +39,8 @@ performance across multiple dimensions.
 ![Screenshot 2024-08-11 111521](https://github.com/user-attachments/assets/591ba056-b48c-4e8f-9263-5e24330953bf)
 
 # DAX Queries
-![Uploading image.png…]()
+![Screenshot 2024-08-11 230043](https://github.com/user-attachments/assets/29681fd9-bda6-4c94-9b8a-04e2430351d6)
+
 
 # Various Measures
 ![Screenshot 2024-08-11 230400](https://github.com/user-attachments/assets/24519699-6b1c-461a-9ba9-d6b68efc89f8)
