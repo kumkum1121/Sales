@@ -13,7 +13,28 @@ performance across multiple dimensions.
 - **Customer Insights:** Highlight top customers contributing to sales to enhance customer relationship management and support targeted marketing efforts.
 
 - **Margins:** Track total sales and margins by product and order date to optimize pricing strategies and profitability.
-  
+# Process and Tools
+
+## Data Preparation:
+- Imported data related to Sales Territory, Customer demographics, and Order details.
+- Cleaned and transformed the data to ensure accuracy in visualizations.
+
+## KPI Development:
+- Developed key performance indicators (KPIs) such as Yearly Sales Trend, Overall Total Sales, and Overall Total Margin.
+
+### Visualization Creation:
+- Created visualizations like bar charts, pie charts, and maps to represent sales by territory, product, and customer.
+- Added slicers for filtering data by gender, year, continent, and category.
+
+## Design:
+- Focused on a clean and intuitive design to make the dashboard easy to navigate.
+- Emphasized key metrics using card visuals and KPIs to ensure quick insights.
+
+
+
+
+
+
 # Relaionship building:
 ![Screenshot 2024-08-11 111521](https://github.com/user-attachments/assets/591ba056-b48c-4e8f-9263-5e24330953bf)
 
