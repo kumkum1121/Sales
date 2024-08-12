@@ -35,7 +35,7 @@ performance across multiple dimensions.
 
 
 
-# Relaionship building:
+# Relationship building:
 ![Screenshot 2024-08-11 111521](https://github.com/user-attachments/assets/591ba056-b48c-4e8f-9263-5e24330953bf)
 
 # DAX Queries
