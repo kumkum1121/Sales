@@ -14,11 +14,8 @@ performance across multiple dimensions.
 
 - **Margins:** Track total sales and margins by product and order date to optimize pricing strategies and profitability.
 
-## Power BI Dashboard
-
-Explore the interactive Power BI dashboard I created to analyze [focus of your dashboard].
-
-[Live Dashboard Link](https://app.powerbi.com/groups/me/dashboards/b1035891-f9d0-499e-a7cd-6d93d4efaf36?experience=power-bi)
+## Power BI Live Dashboard:
+[Link](https://app.powerbi.com/groups/me/dashboards/b1035891-f9d0-499e-a7cd-6d93d4efaf36?experience=power-bi)
 # Process and Tools
 
 ## Data Preparation:
